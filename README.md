@@ -1,6 +1,6 @@
 ﻿# Salon_Tmps_Reel
 
- | Besoin | Sens des échanges  | Fréquence | Latence tolérée |
-|:-------- |:--------:|:--------:|  --------:|
-| Left     | Center   | Right    | test |
+ | Besoin | Sens des échanges  | Fréquence | Latence tolérée | Perte tolérée | Données (texte, binaire) |
+|:-------- |:--------:|:--------:|:--------:|:--------:|--------:|
+| Left     | Center   | Right    | test | test  | test |
 
